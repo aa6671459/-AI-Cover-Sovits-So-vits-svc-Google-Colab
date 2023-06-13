@@ -424,10 +424,11 @@ class HFModels:
 
     print("Finished!")
     <br>
-    # 參考網站
-    AI 翻唱教學 : https://youtu.be/79x-1JVbiKQ
-    音樂素材 : https://youtu.be/-A-z5VWLWsM
-    Vocal Remover: https://vocalremover.org/
-    VEED IO: https://www.veed.io/
-    Discord (AI Hub): https://discord.gg/aihub
+    #參考網站
+    AI 翻唱教學 : (https://youtu.be/79x-1JVbiKQ)
+    音樂素材 : (https://youtu.be/-A-z5VWLWsM)
+    Vocal Remover: (https://vocalremover.org/)
+    VEED IO: (https://www.veed.io/)
+    Discord (AI Hub): (https://discord.gg/aihub)
+    <br>
     
