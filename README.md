@@ -426,11 +426,16 @@ class HFModels:
 
 
 <br>
-#參考網站
+# 參考網站
+
 AI 翻唱教學 : (https://youtu.be/79x-1JVbiKQ)
+<br>
 音樂素材 : (https://youtu.be/-A-z5VWLWsM)
+<br>
 Vocal Remover: (https://vocalremover.org/)
+<br>
 VEED IO: (https://www.veed.io/)
+<br>
 Discord (AI Hub): (https://discord.gg/aihub)
 <br>
     
